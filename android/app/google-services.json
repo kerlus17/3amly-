@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422223950863",
+    "project_id": "amly-5d225",
+    "storage_bucket": "amly-5d225.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422223950863:android:dc5afd1f152bb29d389f7a",
+        "android_client_info": {
+          "package_name": "com.example.elwaqar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQhDRMzyl1gpjmAwig-BAmqRF3RAnI_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
